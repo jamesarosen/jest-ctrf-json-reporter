@@ -1,0 +1,41 @@
+tests/standard/conformance/unit/fixtures.mjs
+  s_3008a141776efa::t_de0c23196b038a 119-123
+  s_3008a141776efa::t_2c0235f1a23b5a 48-60,64
+tests/standard/conformance/integration/fixtures/suite-load-error.test.cjs
+  s_3008a141776efa::t_a1df6bb4804221 1
+tests/standard/conformance/integration/prepare.mjs
+  s_3008a141776efa::t_1b6b440dd13983 85-89
+  s_3008a141776efa::t_d68abcda087fa0 84
+README.md
+  s_3008a141776efa::t_68158ce068ee9f 153-156
+tests/standard/conformance/jest-checks.mjs
+  s_3008a141776efa::t_e6a7dd324f42dd 20-21
+  s_3008a141776efa::t_13dd73d0b1ed1f 5-19,22-23
+test/generate-report.test.ts
+  s_3008a141776efa::t_c7886b8c3fdf25 178-186,195-196,201,203-204,368,382-435,502-512,514-521
+  s_3008a141776efa::t_c06dc3bef8aeef 513
+  s_3008a141776efa::t_0f5200070fcabb 522
+src/generate-report.ts
+  s_3008a141776efa::t_0f76baf3ee39e0 271-272
+  s_3008a141776efa::t_018352390539d0 29,31,268-270,273,276,281-284,293,301-304,309-321,326,329-333
+tests/standard/conformance/expected.mjs
+  s_3008a141776efa::t_4c5e29b1a23a03 5-6,35-54
+tests/standard/conformance/integration/fixtures/jest.config.cjs
+  s_3008a141776efa::t_f8bf7438686832 2,8-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1bb9b446e0a34253bd2d8e4babfc918a621f474b",
+  "prompts": {},
+  "sessions": {
+    "s_3008a141776efa": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d6dc945b-99d7-4520-a3d4-23a83e9a12af",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "James A Rosen <james.rosen@scribehow.com>"
+    }
+  }
+}
